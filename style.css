@@ -1,0 +1,393 @@
+.header-home h1 {
+  font-family: 'Roboto Slab', serif;
+  font-weight: bold;
+  font-size: 50px;
+  color: rgb(255, 254, 247);
+  text-align: center;
+  background-color:#242f44;
+  margin: -8px;
+ }
+.header-home{
+    
+  height:953px;
+  opacity: 50%;
+  margin: -8px;
+  
+}
+
+.nav-home{
+  padding-left:47%;
+  margin:-8px;
+  margin-top: -20px;
+  background-color:#242f44;
+  padding-top: 200px;
+}
+.nav-home a{
+  color:yellow;
+  font-weight: bold;
+}
+
+.nav-home .menu-home{
+  background-image: url("https://res.cloudinary.com/carlos20/image/upload/c_scale,h_141,w_132/v1541685990/los-aztecas-mexican-restaurant.jpg");
+  background-repeat: no-repeat;
+  height:141px;
+  padding-top: 30px;
+  padding-left:35px;
+  margin-top: -40px;
+}
+.nav-home .drinks-home{
+  background-image: url("https://res.cloudinary.com/carlos20/image/upload/c_scale,h_77,w_132/v1541687690/fizzy-drink.webp");
+    background-repeat: no-repeat;
+  height: 77px;
+  padding-left:30px;
+  padding-top:2.5px;
+}
+.nav-home .specials-home{
+  padding-top: 25px;
+  padding-bottom:25px;
+}
+
+.nav-home .about-us-home{
+  background-image: url("https://res.cloudinary.com/carlos20/image/upload/c_scale,h_141,w_132/v1543419801/IMG_1855.jpg");
+  background-repeat:no-repeat;
+  height:141px;
+  padding-left:17px;
+  padding-top:35px;
+}
+.contact-home{
+  padding-left:44%;
+  background-color:#242f44;
+  margin:-8px;
+}
+.header h1 {
+  font-family: 'Roboto Slab', serif;
+  font-weight: bold;
+  font-size: 50px;
+  color: rgb(255, 254, 247);
+  text-align: center;
+  background-color: #242f44;
+  margin: -8px;
+}
+
+.nav h3 {
+  font-family: 'Roboto Slab', serif;
+  color: rgb(255, 254, 247);
+  display: inline-block;
+  font-size: 15px;
+  background-color: #242f44;
+  padding: 8px;
+}
+
+.nav {
+  margin: -8px;
+  margin-top: 50px;
+  text-align: center;
+  position: absolute;
+  width: 100%;
+  top: 14px;
+  background-color: #242f44;
+  z-index: 5px;
+  
+}
+.container{
+  width: 100%;  
+}
+.menu h1{
+  font-family: 'Roboto Slab', serif;
+  font-size: 50px;
+  padding:30px;
+  padding-left:42.5%;
+  text-decoration: underline;
+  color: rgb(255, 254, 247);
+ 
+}
+.menu{
+  background-color:#242f44;
+  margin:-8px;
+  color: rgb(255, 254, 247);
+  
+}
+.menu h2{
+  color: rgb(255, 254, 247);
+  padding-left: 20px;
+  text-decoration:underline;
+}
+.menu h3{
+  color: rgb(255, 254, 247);
+  padding-left: 20px;
+}
+.menu p{
+  padding-left:60px;
+}
+.header h1 {
+  font-family: 'Roboto Slab', serif;
+  font-weight: bold;
+  font-size: 50px;
+  color: rgb(255, 254, 247);
+  text-align: center;
+  background-color: #242f44;
+  margin: -8px;
+}
+
+.nav h3 {
+  font-family: 'Roboto Slab', serif;
+  color: rgb(255, 254, 247);
+  display: inline-block;
+  font-size: 15px;
+  background-color: #242f44;
+  padding: 8px;
+}
+
+.nav {
+  margin: -8px;
+  margin-top: 50px;
+  text-align: center;
+  position: absolute;
+  width: 100%;
+  top: 14px;
+  background-color: #242f44;
+  z-index: 5px;
+  
+}
+.container{
+  width: 100%;  
+}
+.drinks h1{
+  font-family: 'Roboto Slab', serif;
+  font-size: 50px;
+  padding:30px;
+  padding-left:42.5%;
+  text-decoration: underline;
+  color: rgb(255, 254, 247);
+ 
+}
+.drinks{
+  background-color:#242f44;
+  margin:-8px;
+  color: rgb(255, 254, 247);
+}
+.drinks h2{
+  color: rgb(255, 254, 247);
+  padding-left: 20px;
+  text-decoration:underline;
+}
+.drinks ul{
+  color:rgb(255, 254, 247) ;
+  padding-left: 36px;
+  font-size:18px;
+}
+.drinks img{
+  width:500px;
+  position: relative;
+  left: 30%;
+  
+}
+.header h1 {
+  font-family: 'Roboto Slab', serif;
+  font-weight: bold;
+  font-size: 50px;
+  color: rgb(255, 254, 247);
+  text-align: center;
+  background-color: #242f44;
+  margin: -8px;
+}
+
+.nav h3 {
+  font-family: 'Roboto Slab', serif;
+  color: rgb(255, 254, 247);
+  display: inline-block;
+  font-size: 15px;
+  background-color: #242f44;
+  padding: 8px;
+}
+
+.nav {
+  margin: -8px;
+  margin-top: 50px;
+  text-align: center;
+  position: absolute;
+  width: 100%;
+  top: 14px;
+  background-color: #242f44;
+  z-index: 5px;
+  
+}
+.container{
+  width: 100%;  
+}
+.specials h1{
+  font-family: 'Roboto Slab', serif;
+  font-size: 50px;
+  padding:30px;
+  padding-left:42.5%;
+  text-decoration: underline;
+  color: rgb(255, 254, 247);
+ 
+}
+.specials{
+  background-color:#242f44;
+  margin:-8px;
+  color: rgb(255, 254, 247);
+  font-family: 'Roboto Slab', serif;
+  
+}
+.specials h2{
+  color: rgb(255, 254, 247);
+  padding-left: 20px;
+  text-decoration:underline;
+  position: relative;
+  left:40%;
+}
+.specials h3{
+  color: rgb(255, 254, 247);
+  padding-left: 20px;
+  padding-bottom: 40px;
+  position: relative;
+  left:40%;
+}
+.specials p{
+  padding-left:60px;
+  font-weight:bold;
+  font-size:17px;
+  position: relative;
+  left:20%;
+  padding-bottom:15px
+}
+.specials img{
+  position: relative;
+  left:28%;
+  padding-bottom:60px;
+}
+.header h1 {
+  font-family: 'Roboto Slab', serif;
+  font-weight: bold;
+  font-size: 50px;
+  color: rgb(255, 254, 247);
+  text-align: center;
+  background-color: #242f44;
+  margin: -8px;
+}
+
+.nav h3 {
+  font-family: 'Roboto Slab', serif;
+  color: rgb(255, 254, 247);
+  display: inline-block;
+  font-size: 15px;
+  background-color: #242f44;
+  padding: 8px;
+}
+
+.nav {
+  margin: -8px;
+  margin-top: 50px;
+  text-align: center;
+  position: absolute;
+  width: 100%;
+  top: 14px;
+  background-color: #242f44;
+  z-index: 5px;
+  
+}
+.container{
+  width: 100%;  
+}
+.about-us h1{
+  font-family: 'Roboto Slab', serif;
+  font-size: 50px;
+  padding:30px;
+  padding-left:42.5%;
+  text-decoration: underline;
+  color: rgb(255, 254, 247);
+ 
+}
+.about-us{
+  background-color:#242f44;
+  margin:-8px;
+  color: rgb(255, 254, 247);
+}
+.about-us img{
+  width:600px;
+  padding-left:340px;
+}
+.about-us h4{
+    font-family: 'Roboto Slab', serif;
+    text-align: center;
+    width: 450px;
+    padding:70px;
+    padding-left:420px;
+ 
+}
+.header h1 {
+  font-family: 'Roboto Slab', serif;
+  font-weight: bold;
+  font-size: 50px;
+  color: rgb(255, 254, 247);
+  text-align: center;
+  background-color: #242f44;
+  margin: -8px;
+}
+
+.nav h3 {
+  font-family: 'Roboto Slab', serif;
+  color: rgb(255, 254, 247);
+  display: inline-block;
+  font-size: 15px;
+  background-color: #242f44;
+  padding: 8px;
+}
+
+.nav {
+  margin: -8px;
+  margin-top: 50px;
+  text-align: center;
+  position: absolute;
+  width: 100%;
+  top: 14px;
+  background-color: #242f44;
+  z-index: 5px;
+  
+}
+.container{
+  width: 100%;  
+}
+.contact-us h1{
+  font-family: 'Roboto Slab', serif;
+  font-size: 50px;
+  padding:30px;
+  padding-left:42.5%;
+  text-decoration: underline;
+  color: rgb(255, 254, 247);
+ 
+}
+.contact-us{
+  background-color:#242f44;
+  margin:-8px;
+  color: rgb(255, 254, 247);
+}
+.map{
+  padding:45px;
+  padding-left: 380px;
+  }
+.facebook{
+  padding:45px;
+  padding-left:590px;
+}
+
+.instagram {
+  opacity: 50%;
+  padding:45px;
+  padding-left:590px;
+  padding-top:100px;
+}
+.phone img{
+  padding-left:3px;
+}
+.phone{
+  opacity: 50%;
+  padding:45px;
+  padding-left:587px;
+  padding-top:100px;
+}
+
+
+  
